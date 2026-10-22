@@ -5,7 +5,7 @@
 
 ## ⬇️ הורדה
 
-**[הורדת CyberLabKids.apk](https://github.com/kobifrah1991-svg/CyberLab-Kids-releases/raw/main/CyberLabKids.apk)** (גרסה 1.0.1, בערך 3835 KB)
+**[הורדת CyberLabKids.apk](https://github.com/kobifrah1991-svg/CyberLab-Kids-releases/raw/main/CyberLabKids.apk)** (גרסה 1.0.2, בערך 3901 KB)
 
 ## התקנה
 1. פותחים את קישור ההורדה **בטלפון** (Android 7 ומעלה).
@@ -18,7 +18,7 @@
 האפליקציה עובדת בלי אינטרנט: אין לה הרשאת אינטרנט, אין פרסומות, אין חשבונות ואין איסוף מידע.
 
 ## אימות הקובץ
-SHA-256: `8d6cb59a7035f5bb4a31fe6aca7aff0a71eb15b153082733777ecfe663ef2870`
+SHA-256: `64a53a9183e9008a71087291f00ef9b68b0eac2ed4e5d10fb750059f5364919a`
 
 ---
 Android הוא סימן מסחרי של Google LLC.
