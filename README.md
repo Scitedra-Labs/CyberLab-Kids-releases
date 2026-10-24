@@ -1,24 +1,46 @@
-# סייברלאב קידס – הורדה לאנדרואיד
+# CyberLab Kids — Android Download | הורדה לאנדרואיד
 
-משחק טכנולוגיה צבעוני בעברית לילדים מגיל 7.
-אפשר לשחק בדפדפן: **https://cyberlab-3d-kids.web.app**
+**English** · [עברית](#עברית)
 
-## ⬇️ הורדה
+CyberLab Kids is a colorful Hebrew technology game for children aged 7 and up: playful mini-games about computers, electricity, bugs and online safety.
 
-**[הורדת CyberLabKids.apk](https://github.com/kobifrah1991-svg/CyberLab-Kids-releases/raw/main/CyberLabKids.apk)** (גרסה 1.0.2, בערך 3901 KB)
+- 🌐 **Play in the browser:** https://cyberlab-3d-kids.web.app
+- ⬇️ **Download for Android:** [CyberLabKids.apk](https://github.com/Scitedra-Labs/CyberLab-Kids-releases/raw/main/CyberLabKids.apk) (version 1.0.2, ~3.9 MB) · or from the [latest release](../../releases/latest)
 
-## התקנה
-1. פותחים את קישור ההורדה **בטלפון** (Android 7 ומעלה).
-2. פותחים את הקובץ שירד. אם הטלפון מבקש, מאשרים "התקנה ממקורות לא ידועים" לדפדפן.
-3. לוחצים "התקנה".
+### Installing on Android
+1. Open the download link **on your phone** (Android 7 or later).
+2. Open the downloaded file. If prompted, allow your browser to "install unknown apps".
+3. Tap **Install**. If an old debug build is installed, uninstall it once first.
 
-אם כבר הותקנה גרסת בדיקה ישנה (debug), צריך להסיר אותה פעם אחת לפני ההתקנה.
+### Privacy
+Works fully offline: no internet permission, no ads, no accounts and no data collection.
 
-## פרטיות
-האפליקציה עובדת בלי אינטרנט: אין לה הרשאת אינטרנט, אין פרסומות, אין חשבונות ואין איסוף מידע.
-
-## אימות הקובץ
 SHA-256: `64a53a9183e9008a71087291f00ef9b68b0eac2ed4e5d10fb750059f5364919a`
 
+This repository contains installation files only. The source code is private.
+
 ---
-Android הוא סימן מסחרי של Google LLC.
+
+<div dir="rtl">
+
+## עברית
+
+סייברלאב קידס הוא משחק טכנולוגיה צבעוני בעברית לילדים מגיל 7: משחקונים חווייתיים על מחשבים, חשמל, באגים וגלישה בטוחה.
+
+- 🌐 **משחק בדפדפן:** https://cyberlab-3d-kids.web.app
+- ⬇️ **הורדה לאנדרואיד:** [CyberLabKids.apk](https://github.com/Scitedra-Labs/CyberLab-Kids-releases/raw/main/CyberLabKids.apk) (גרסה 1.0.2, כ־3.9MB) · או מ[הגרסה האחרונה](../../releases/latest)
+
+### התקנה באנדרואיד
+1. פותחים את קישור ההורדה **בטלפון** (Android 7 ומעלה).
+2. פותחים את הקובץ שירד. אם הטלפון מבקש, מאשרים לדפדפן "התקנת אפליקציות ממקורות לא ידועים".
+3. לוחצים **התקנה**. אם מותקנת גרסת בדיקה ישנה (debug), יש להסיר אותה פעם אחת לפני כן.
+
+### פרטיות
+האפליקציה עובדת בלי אינטרנט: אין הרשאת אינטרנט, אין פרסומות, אין חשבונות ואין איסוף מידע.
+
+המאגר הזה מכיל קבצי התקנה בלבד. קוד המקור פרטי.
+
+</div>
+
+---
+Android is a trademark of Google LLC. · © Scitedra Labs
