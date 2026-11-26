@@ -1,5 +1,13 @@
 # CyberLab Kids — Android Download | הורדה לאנדרואיד
 
+**▶ [Play in the browser](https://cyberlab-3d-kids.web.app)** · **📄 [Product page](https://scitedra-labs.web.app/en/cyberlab-kids/)** · **⬇ [Download for Android](https://github.com/Scitedra-Labs/CyberLab-Kids-releases/releases/latest)**
+
+<div dir="rtl" lang="he">
+
+**▶ [משחק בדפדפן](https://cyberlab-3d-kids.web.app)** · **📄 [עמוד המוצר](https://scitedra-labs.web.app/cyberlab-kids/)** · **⬇ [הורדה לאנדרואיד](https://github.com/Scitedra-Labs/CyberLab-Kids-releases/releases/latest)**
+
+</div>
+
 **English** · [עברית](#עברית)
 
 CyberLab Kids is a colorful Hebrew technology game for children aged 7 and up: playful mini-games about computers, electricity, bugs and online safety.
